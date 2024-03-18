@@ -169,7 +169,7 @@ def display(
 
 
 def main(
-    target_str: str = "i use arch btw",
+    target_str: str = "congratulations weddy",
     population_size: int = 48,
     num_fit_to_keep: int = 5,
     num_columns: int = 4,
