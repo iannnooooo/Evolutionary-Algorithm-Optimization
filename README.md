@@ -39,5 +39,6 @@ This Python script implements a simple genetic algorithm to generate a target st
 ## Disclaimer
 
 This script is provided for fun purposes and as a demonstration of genetic algorithms. It should be used responsibly and might be addictive to watch it run. 
-##HAVE FUN!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+## HAVE FUN!!!!!!!!!!!!!!!!!!!!!!!!!!
 
